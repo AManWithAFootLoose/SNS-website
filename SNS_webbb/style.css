@@ -1,0 +1,30 @@
+body{
+    background-image: url('testpic2.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: left;
+    background-size: cover;
+}
+#Label{
+    color: #228B22;
+    background-color: #ffffff;
+    font-family: 'Press Start 2P';
+    font-size: 60px;
+    background-color: #000000;
+    width: 150;
+    height: 50;
+    background-attachment: fixed;
+    background-size: cover;
+ 
+}
+#p1{
+    color: #228B22;
+    text-align: left;
+    font-family: 'Press Start 2P';
+    font-size: 10px;
+    background-color: #000000;
+    width: 150;
+    height: 50;
+    background-attachment: fixed;
+    background-size: cover;
+}
